@@ -27,6 +27,6 @@ return res.json({message:"welcome nischay"})
 })
 
 
-app.listen(3000,()=> {
+app.listen(80,()=> {
 	console.log("server running at port 3000")
 })
